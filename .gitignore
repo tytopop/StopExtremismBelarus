@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.env
+venv/
+*.log
+logs/
+downloads/
+*.db
+*.sqlite3
+*.session
+*.session-journal
+.idea/
+.vscode/
+boss_session*
+УСТАНОВКА.txt
